@@ -11,7 +11,7 @@ public class Szp
 		int a=scanner.nextInt();
 		System.out.println("请输入数字b");
 		int b=scanner.nextInt();
-		int sum=a+b;
-		System.out.println("两个数之和为"+sum);
+		int sum=a-b;
+		System.out.println("两个数之差为"+sum);
 	}
 }
